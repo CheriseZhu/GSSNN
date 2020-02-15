@@ -1,5 +1,5 @@
 # RSHN
-The implementation of our AAAI 2020 paper "GSSNN: Graph Smoothing Splines Neural Network".
+The implementation of our AAAI 2020 paper "[GSSNN: Graph Smoothing Splines Neural Network](http://ddl.escience.cn/f/UW3Q)". [Slides](http://ddl.escience.cn/f/VbTm).
 
 # Requirements
 python == 3.6.2<br>
