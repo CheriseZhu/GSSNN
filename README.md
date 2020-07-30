@@ -1,4 +1,4 @@
-# RSHN
+# GSSNN
 The implementation of our AAAI 2020 paper "[GSSNN: Graph Smoothing Splines Neural Network](https://www.researchgate.net/publication/337548602_GSSNN_Graph_Smoothing_Splines_Neural_Networks)". 
 
 # Requirements
